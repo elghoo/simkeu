@@ -1,0 +1,9 @@
+# Berkas unggahan pengguna
+uploads/bukti/*
+!uploads/bukti/index.html
+# Sistem / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
