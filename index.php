@@ -1,6 +1,6 @@
 <?php
 /**
- * SIMKEU - Sistem Informasi Manajemen Keuangan
+ * SIMKEU - Sistem Informasi Manajemen Keuangan - Dev by Elghodhonfar
  * Front controller / router sederhana
  */
 require_once __DIR__ . '/config/app.php';
